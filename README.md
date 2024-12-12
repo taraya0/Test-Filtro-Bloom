@@ -1,2 +1,18 @@
-# Test-Filtro-Bloom
-Implementación de experimento realizado para el curso Diseño y análisis de algoritmos de la Universidad de Chile, realizado por Felipe Alfaro, Tomás Araya y José Pereira.
+# Filtro de bloom
+
+## Cómo correr la tarea
+* Compilar con la siguiente linea:
+```bash
+    g++ -std=c++11 main.cpp -o main
+```
+* Correr el ejecutable: 
+```bash
+./main
+```
+
+## Cómo correr el graficador
+* Ejecutar plotter.py en la terminal
+
+```bash
+    python3 plotter.py
+```
